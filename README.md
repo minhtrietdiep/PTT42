@@ -1,2 +1,2 @@
 # PTT42
-Proftaak T42-2
+Proeftaak T42-2
